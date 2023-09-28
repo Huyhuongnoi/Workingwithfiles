@@ -1,0 +1,7 @@
+Code một cái bank với các chức năng:
++ Đăng ký tàii khoản
++ Đăng Nhập
++ Chuyển Khoản
++ Xem thông tin
++ Đổi mã pin
+#Lưu dữu liệu khách hàng vào 1 file.txt

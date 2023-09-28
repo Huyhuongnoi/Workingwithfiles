@@ -1,0 +1,11 @@
+0|Nguyen Quoc Huy|20|Nam|Hai Duong|IT
+1|Vu Thi Ngoc|18|Nu|Hai Duong|Thu Ky
+2|Nguyen Thi Loan|33|Nu|Hai Phong|4
+3|Nguyen Van Yen|83|Nam|Yen Bai|IT
+4|Huyen A Ngu|33|Nu|Lang Son|4
+5|Luu Hai An|18|Nu|Ha Tinh|Thu Ky
+6|Luu Quoc Viet|23|Nam|Binh Duong|ICC
+9981|Hai Hong Hoa|33|Nu|Ha Tinh|10
+10|Hong Ha Nhi|1000|Be de|Hoa Diem Son|An Bam
+9|Nguyen Hai Nhu|82|Nu|Hai Duong|8
+11|Nguyen Kha Ai|17|Nu|Vung Tau|Bon Ban
